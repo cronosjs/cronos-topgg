@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/cronos-team/cronos">
-    <img src="./media/cronos-topgg.png" alt="cronos topgg" />
+    <img src="./media/cronos-topgg.png" width="500" alt="cronos topgg" />
   </a>
 </p> 
 
